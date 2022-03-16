@@ -1,0 +1,12 @@
+.container-menu{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    height: calc(4rem + 1vw);
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    width: 10%;
+    align-items: center;
+    height: 30%;
+}
